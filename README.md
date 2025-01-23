@@ -77,6 +77,3 @@ For any inquiries or feedback, please reach out to:
 - **Email**: [fenilgalani111@gmail.com](mailto:fenilgalani111@gmail.com)
 - **GitHub**: [FenilGalani07](https://github.com/FenilGalani07)
 
----
-
-Feel free to customize this README template to better fit your project and its specific needs!
