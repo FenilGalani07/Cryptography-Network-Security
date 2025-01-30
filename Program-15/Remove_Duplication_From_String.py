@@ -1,6 +1,7 @@
 # remove_duplicates.py
 
 def remove_duplicates(input_string):
+
     seen = set()
     result = []
     for char in input_string:
